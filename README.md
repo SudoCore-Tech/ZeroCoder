@@ -1,3 +1,6 @@
+# ZeroCoder 
+
+Application launch: ZeroCoder Release
 <div align="center">
   <h1>🚀 ZeroCoder</h1>
   <p><b>Capturing the flow of code and building the next generation of engineers.</b></p>
